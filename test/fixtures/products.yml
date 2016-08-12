@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 
+  product_name: MyString
+  prduct_description: MyText
+  product_sku: MyString
+  product_quantity: MyString
+  product_bulk_price: 9.99
+  product_retail_price: 9.99
+  product_sales_price: 9.99
+  product_image: MyString
+
+two:
+  user_id: 
+  product_name: MyString
+  prduct_description: MyText
+  product_sku: MyString
+  product_quantity: MyString
+  product_bulk_price: 9.99
+  product_retail_price: 9.99
+  product_sales_price: 9.99
+  product_image: MyString
